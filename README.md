@@ -44,7 +44,7 @@ Click Here to Download
 ## Developer
 
 - **Name:** MOHD AAKIB
-- **GitHub:** https://github.com/in-deep-dive
+- **GitHub:** https://github.com/GeniusApk
 
 
 ## 🔗 Links
