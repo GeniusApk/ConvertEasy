@@ -34,7 +34,8 @@ Click Here to Download
 
 ## License
 
-[Include license information here if applicable]
+[MIT](https://github.com/in-deep-dive/ConvertEasy/blob/master/LICENSE)
+
 
 ## Acknowledgements
 
